@@ -202,7 +202,7 @@ class Tracker
             ],
             'products' => [[
                 'id'           => $ID_PRODUTO   ?? 'produto-001',
-                'name'         => $NOME_PRODUTO ?? ($data['descricao'] ?: '01 S Produto Digital'),
+                'name'         => $NOME_PRODUTO ?? ($data['descricao'] ?: '10 F Produto Digital'),
                 'planId'       => null,
                 'planName'     => null,
                 'quantity'     => 1,
